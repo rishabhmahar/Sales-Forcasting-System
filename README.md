@@ -40,5 +40,5 @@ This project demonstrates a simple and effective machine learning–based sales 
 * Build a web dashboard using Streamlit
 ------------------------------------------------------------------------------------------------------------------------------------
 # Contributor
-Rishabh Mahar
-B.Tech 2nd Year – AIML
+* Rishabh Mahar
+* B.Tech 2nd Year – AIML
